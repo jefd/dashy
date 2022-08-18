@@ -360,7 +360,7 @@ function Dash(initialVnode) {
         }
 }
 
-let root = document.getElementById('app');
+let root = document.getElementById('dashboard-app');
 
 
 m.mount(root, Dash);
